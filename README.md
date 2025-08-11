@@ -1,2 +1,3 @@
-# FUTURE_FS-_01
-Next.js + Tailwind CSS portfolio website with contact form integration
+# My First GitHub Project
+
+This is my very first repository created for learning Git and GitHub.
